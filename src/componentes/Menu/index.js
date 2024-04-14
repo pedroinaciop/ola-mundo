@@ -1,4 +1,4 @@
-import MenuLink from './MenuLink';
+import MenuLink from '../MenuLink';
 import styles from'./Menu.module.css'
 
 export default function Menu() {
