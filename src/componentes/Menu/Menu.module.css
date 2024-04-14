@@ -1,0 +1,16 @@
+.navegacao {
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo {
+    height: 50px;
+}
+
+@media (max-width: 744px) {
+    .navegacao {
+        height: 72px;
+    }
+}

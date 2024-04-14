@@ -1,0 +1,10 @@
+.link {
+    font-size: 1.25rem;
+    line-height: 1.5rem;
+    padding: 0px 20px;
+    color: var(--cor-fonte-principal);
+}
+
+.linkDestacado {
+    font-weight: bold;
+}
