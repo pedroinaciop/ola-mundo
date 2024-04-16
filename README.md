@@ -10,7 +10,7 @@ Continuação da minha jornada praticando a biblioteca React, nesse projeto prat
 ![Web 1]()
 
 ## Tecnologias utilizadas
-[![Minhas Habilidades]()
+[![Minhas Habilidades](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 
 ## 👨‍💻 Autor
 
